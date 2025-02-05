@@ -173,6 +173,7 @@ struct NotificationsScreen: View {
                             Text("tylerthecreator ")
                                 .font(.headline) +
                             Text("posted a new reel.") +
+                            Text(" Chromakopia release 🔥🔥") +
                             Text("  7d")
                                 .foregroundColor(.gray)
                             Spacer()
