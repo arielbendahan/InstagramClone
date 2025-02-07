@@ -1,6 +1,6 @@
 # InstagramClone
 
-This project is a cloned version of Instagram. Here are some of the following features:
+This project is a cloned version of Instagram. Here are some of the features:
 
 - Home screen with posts from people you follow and stories at the top
 - Discover page with posts
